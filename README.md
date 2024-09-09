@@ -6,5 +6,5 @@
 
 **Calculator:** [Calculator](https://github.com/Tarun7386/calculator)
 
-**Server:** [Server](https://github.com/Tarun7386/EAD-Lab)
+**client & server:** [Client & Server](https://github.com/Tarun7386/EAD-Lab)
 
