@@ -7,4 +7,5 @@
 **Calculator:** [Calculator](https://github.com/Tarun7386/caluclator)
 
 **client & server:** [Client & Server](https://github.com/Tarun7386/EAD-Lab)
+**Timer :** [Timer](https://github.com/Tarun7386/EAD-Lab/blob/main/client/src/Components/Timer.jsx)
 
