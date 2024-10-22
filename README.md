@@ -10,3 +10,5 @@
 
 **Timer :** [Timer](https://github.com/Tarun7386/EAD-Lab/blob/main/client/src/Components/Timer.jsx)
 
+**Schedule "** [Schedule](https://github.com/Tarun7386/caluclator/blob/main/schedule.html)
+
