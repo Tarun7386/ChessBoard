@@ -14,5 +14,5 @@
 
 **JWT:** [JWT](https://github.com/Tarun7386/EAD-Lab/tree/main/server/middleware)
 
-**PasswordStrength :** [PasswordStrength] (https://github.com/Tarun7386/EAD-Lab/blob/main/client/src/Components/PasswordStrength.jsx)
+**PasswordStrength :**[PasswordStrength](https://github.com/Tarun7386/EAD-Lab/blob/main/client/src/Components/PasswordStrength.jsx)
 
